@@ -26,4 +26,8 @@ In addition, to work with scripts with click and mongo prefixes, you need to ins
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IlyaKleyn&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+![Codewars](https://github.r2v.ch/codewars?user=IlyaKleyn&stroke=blue)
   
