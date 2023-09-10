@@ -18,5 +18,8 @@ To work with the examples of projects that are given in this repository, you nee
 
 In addition, to work with scripts with click and mongo prefixes, you need to install:
   - subprocess module https://pypi.org/project/subprocess.run/;
-    
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaKleyn&size_weight=0.5&count_weight=0.5)
   
