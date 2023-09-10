@@ -29,5 +29,5 @@ In addition, to work with scripts with click and mongo prefixes, you need to ins
 
 
 
-![Codewars](https://github.r2v.ch/codewars?user=IlyaKleyn&stroke=blue)
+![Codewars](https://github.r2v.ch/codewars?user=IlyaKleyn&stroke={blue})
   
