@@ -17,6 +17,6 @@ To work with the examples of projects that are given in this repository, you nee
   - installed PySpark lib: https://pypi.org/project/pyspark/ to run the code examples (with PySpark prefix in file name of the scripts).
 
 In addition, to work with scripts with click and mongo prefixes, you need to install:
-    subprocess module https://pypi.org/project/subprocess.run/;
+  - subprocess module https://pypi.org/project/subprocess.run/;
     
   
