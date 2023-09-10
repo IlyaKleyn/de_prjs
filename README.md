@@ -22,4 +22,7 @@ In addition, to work with scripts with click and mongo prefixes, you need to ins
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaKleyn&size_weight=0.5&count_weight=0.5)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaKleyn&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
