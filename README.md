@@ -13,7 +13,6 @@ How to Use the Project
 
 To work with the examples of projects that are given in this repository, you need:
   - docker (docker to run examples related to scripts that are dedicated to working with Clickhouse, MongoDB);
-  - installed Pandas lib: https://pypi.org/project/pandas/ to try simple ETL scripts;
-  - installed PySpark lib: https://pypi.org/project/pyspark/ to run the code examples with PySpark prefix in file name of the scripts;
-  - 
+  - installed Pandas lib: https://pypi.org/project/pandas/ to try simple ETL scripts (with Pandas prefix in file name of the scripts);
+  - installed PySpark lib: https://pypi.org/project/pyspark/ to run the code examples (with PySpark prefix in file name of the scripts).
 
