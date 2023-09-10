@@ -8,3 +8,10 @@ The repository has several projects related to:
   - Pandas; 
   - Clickhouse.
 
+
+How to Use the Project
+
+To work with the examples of projects that are given in this repository, you need:
+  - docker (docker to run examples related to scripts that are dedicated to working with Clickhouse: );
+  - installed MongoDB (to run examples telated to scripts that are 
+
